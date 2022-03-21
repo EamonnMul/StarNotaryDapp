@@ -1,10 +1,22 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
-**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
+#  Decentralized Star Notary Service Project** - 
+
+This project creates a DApp by adding smart contract functionality and deploying it on the public testnet.
 
 
-Token name: "Starry Night Token"
-Token symbol: "SNT"
-Etherscan link: https://rinkeby.etherscan.io/address/0x61054eafCEA26372CEa2AA4097AF35Ff67cCa2e0
+### Token name: 
+
+Starry Night Token
+
+### Token symbol: 
+
+SNT
+
+### Etherscan link:
+
+https://rinkeby.etherscan.io/address/0x61054eafCEA26372CEa2AA4097AF35Ff67cCa2e0
+
+### Versions
+
 Truffle v5.4.30 (core: 5.4.30)
 Solidity v0.5.16 (solc-js)
 Node v16.13.2
@@ -12,18 +24,16 @@ Web3.js v1.5.3
 penzeppelin-solidity 2.3.0
 
 ### ToDo
+
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
 
 
 ### Dependencies
+
 For this project, you will need to have:
 1. **Node and NPM** installed - NPM is distributed with [Node.js](https://www.npmjs.com/get-npm)
-```bash
-# Check Node version
-node -v
-# Check NPM version
-npm -v
+
 ```
 
 
